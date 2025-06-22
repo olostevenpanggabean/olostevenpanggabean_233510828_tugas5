@@ -11,9 +11,9 @@
 </template>
 
 <script setup>
-import TodoInput from './components/TodoInput.vue'
-import TodoList from './components/TodoList.vue'
-import TodoStats from './components/TodoStats.vue'
+import TodoInput from './components/todoInput.vue'
+import TodoList from './components/todoList.vue'
+import TodoStats from './components/todoStats.vue'
 </script>
 
 <style scoped>
